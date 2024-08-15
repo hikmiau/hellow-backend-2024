@@ -226,6 +226,21 @@ Achei legal a IA fazendo a imagem falar, porque ela até preenche o background c
 <video src="2024-08-01/434470bf-4b55-4b61-83e9-5dac44bb2a17.mp4" controls title="Title"></video>
 
 ---
+## Data: [08-08-2024]
+
+### O que aprendi hoje:
+Aprendi unidades de medida que eu não sabia.
+
+### O que achei mais difícil:
+Programar o robô para montar uma caixa (eu não tentei).
+
+### O que mais gostei:
+Da apresentação 304.
+
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/qmSIzc-H7vIAAAAC/1984.gif)
+
+---
 ## Data: [DD-MM-AAAA]
 
 ### O que aprendi hoje:

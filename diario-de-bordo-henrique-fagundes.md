@@ -241,6 +241,25 @@ Da apresentação 304.
 ![Alt Text](https://media1.tenor.com/m/qmSIzc-H7vIAAAAC/1984.gif)
 
 ---
+## Data: [15-08-2024]
+
+### O que aprendi hoje:
+A criar apresentações usando o Gamma.
+
+### O que achei mais difícil:
+Escolher as imagens para a apresentação.
+
+### O que mais gostei:
+De jogar ping-pong no intervalo.
+
+### Sentimento do dia:
+![Alt Text](https://media1.tenor.com/m/xA4q0AO9UH0AAAAC/keyboard-hanamaru-kindergarten.gif)
+
+### Exercícios do dia:
+Apresentação:
+https://gamma.app/docs/Minha-Jornada-no-Curso-de-Hellow-Backend-la3c8sd87taanmj
+
+---
 ## Data: [DD-MM-AAAA]
 
 ### O que aprendi hoje:
